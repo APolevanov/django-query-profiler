@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='django_query_profiler',
+    name='django-query-profiler-Georgia',
     version='0.1.0',
     packages=find_packages(),
     include_package_data=True,
     license='MIT License',
-    description='Tool to Profile Django Queries',
+    description='A utility to profile SQL queries made by Django ORM and provide insights into their performance',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Anton Polevanov',

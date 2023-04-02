@@ -1,3 +1,24 @@
+Metadata-Version: 2.1
+Name: django-query-profiler-Georgia
+Version: 0.1.0
+Summary: A utility to profile SQL queries made by Django ORM and provide insights into their performance
+Home-page: https://github.com/APolevanov/django-admin-filters
+Author: Anton Polevanov
+Author-email: alulimmerkar@gmail.com
+License: MIT License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Framework :: Django
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
 # Django Query Profiler
 
 Django Query Profiler is a utility that profiles SQL queries made by Django ORM, providing insights into their performance and suggesting optimizations. This package is particularly useful for developers who want to improve the efficiency of their database interactions, focusing on the Django admin interface.
@@ -13,7 +34,8 @@ Django Query Profiler is a utility that profiles SQL queries made by Django ORM,
 To install Django Query Profiler, simply run:
 
 
-pip install django-query-profiler-Georgia
+pip install django-query-profiler
+
 
 ## Usage
 

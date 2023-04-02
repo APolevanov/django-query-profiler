@@ -1,0 +1,11 @@
+README.md
+setup.py
+django_query_profiler/__init__.py
+django_query_profiler/admin.py
+django_query_profiler/middleware.py
+django_query_profiler/models.py
+django_query_profiler_Georgia.egg-info/PKG-INFO
+django_query_profiler_Georgia.egg-info/SOURCES.txt
+django_query_profiler_Georgia.egg-info/dependency_links.txt
+django_query_profiler_Georgia.egg-info/requires.txt
+django_query_profiler_Georgia.egg-info/top_level.txt
